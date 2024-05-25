@@ -1,8 +1,5 @@
 # Eurocontrol-ASTERIX-Message-Handler
 C++ library for parsing and serializing Eurocontrol ASTERIX messages. Supports multiple categories and ensures efficient message handling for air traffic control and surveillance applications.
-# Eurocontrol ASTERIX Message Handler
-
-This project provides a C++ implementation for handling Eurocontrol ASTERIX messages, including parsing and serializing functionalities. It supports multiple ASTERIX categories and ensures efficient handling of message data for air traffic control and surveillance applications.
 
 ## Features
 
