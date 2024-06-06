@@ -1,0 +1,9 @@
+{
+  "ServerPort": 12345,
+  "RadarUDPAdresses": [{"ip": "127.0.0.1","port": 12000},{"ip": "127.0.0.1","port": 24000},{"ip": "127.0.0.1","port": 36000},{"ip": "127.0.0.1","port": 48000}],
+  "RadarControlGuiPort": 12347,
+  "CAT21_sample":"sampleCat21.json",
+  "CAT34_sample":"sampleCat34.json",
+  "CAT48_sample":"sampleCat48.json",
+  "CAT62_sample":"sampleCat62.json"
+}
